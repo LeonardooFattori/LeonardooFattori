@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LeonardooFattori/24c6757c38565f10e368a730530b19ca/raw/741005d02286e87f0c3b5c5a68babc35ca3fd528/githubcard.svg"/>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/LeonardooFattori/24c6757c38565f10e368a730530b19ca/raw/741005d02286e87f0c3b5c5a68babc35ca3fd528/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leonardo Fattori</h1>
 
